@@ -77,7 +77,7 @@ export default function HomePage() {
 
             {/* Dark image (stacked on top) */}
             <Image
-              src="/cover-dark.png"
+              src="/cover-dark.PNG"
               alt="SlashD Cover (dark)"
               fill
               className="object-cover absolute inset-0 transition-opacity duration-500 opacity-0 dark:opacity-100"
