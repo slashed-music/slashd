@@ -5,6 +5,7 @@ import "./globals.css";
 // 👇 import your ThemeToggle component
 import ThemeToggle from "@/components/ThemeToggle";
 
+
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
@@ -16,8 +17,13 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SLASHD",
-  description: "Ask Joowon — interactive AI Q&A platform",
+  title: "SlashD",
+  description: "my music is slashed",
+  icons: {
+    icon: "/fabicon.png",
+    shortcut: "/fabicon.png",
+    apple: "/apple-touch-icon.png",
+  },
 };
 
 export default function RootLayout({
