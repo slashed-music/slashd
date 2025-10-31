@@ -31,7 +31,7 @@ export default function HomePage() {
                 Ask a Question
               </a>
               <a
-                href="https://patreon.com/"
+                href="https://patreon.com/slashedmusic"
                 target="_blank"
                 className="rounded-xl px-6 py-3 border border-slashd-accent text-slashd-accent bg-transparent hover:bg-slashd-accent hover:text-slashd-textLight transition"
               >
