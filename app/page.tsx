@@ -42,7 +42,7 @@ export default function HomePage() {
             {/* Social row (below buttons) */}
             <div className="flex gap-5 justify-center md:justify-start mt-5">
               <a
-                href="https://x.com/yourhandle"
+                href="https://x.com/slashdmusic"
                 target="_blank"
                 aria-label="X"
                 className="hover:scale-110 transition-all duration-300 hover:shadow-[0_0_20px_-5px_var(--color-slashd-accent)]"
@@ -51,7 +51,7 @@ export default function HomePage() {
               </a>
 
               <a
-                href="https://instagram.com/yourhandle"
+                href="https://instagram.com/slashedmusic"
                 target="_blank"
                 aria-label="Instagram"
                 className="hover:scale-110 transition-all duration-300 hover:shadow-[0_0_20px_-5px_var(--color-slashd-accent)]"
