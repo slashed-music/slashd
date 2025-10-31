@@ -92,7 +92,7 @@ export default function QuestionsPage() {
               Join monthly track feedback via{" "}
               <a
                 className="underline hover:text-slashd-accent"
-                href="https://patreon.com/"
+                href="https://patreon.com/slashedmusic"
                 target="_blank"
               >
                 Patreon
